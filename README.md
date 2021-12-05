@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**TahaNasir3/TahaNasir3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TahaNasir3/TahaNasir3** is a ✨ _special_ ✨ repository because its `README.md` (this file) does notappears on your GitHub profile.
 
 Here are some ideas to get you started:
 
