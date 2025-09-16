@@ -20,5 +20,6 @@ Advanced Snowflake performance tuning, vector databases, and AI-powered data pip
 
 📫 **Let’s connect:**  
 - LinkedIn: [linkedin.com/in/muhammad-taha-nasir](https://linkedin.com/in/muhammad-taha-nasir)  
-- Portfolio: [muhammad-tahanasir.journoportfolio.com](https://muhammad-tahanasir.journoportfolio.com)  
+- Portfolio: [muhammad-tahanasir.journoportfolio.com](https://muhammad-tahanasir.journoportfolio.com)
+- GitHub Portfolio Repository: [https://github.com/TahaNasir3/Taha-Portfolio](https://github.com/TahaNasir3/Taha-Portfolio)
 - YouTube (Presentations & Data Projects): [youtube.com/@tahanasirrao](https://youtube.com/@tahanasirrao)
